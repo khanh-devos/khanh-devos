@@ -1,4 +1,5 @@
-Hello, my name is Khanh. I am a Micronaut.
+Hello, my name is Khanh. 
+I am a Micronaut.
 
 
 
